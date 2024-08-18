@@ -13,6 +13,16 @@ Under onsdagen kommer vi att dyka in i rollen frontendutvecklare och titta närm
 3. Förstå vilka olika roller som finns, samt vad de innebär
 4. Förstå AI verktygens roll inom frontendutveckling
 
+## Resurser
+
+### Presentationer
+
+### Filmer
+
+### Länkar
+
+### Övningar
+
 
 
 
