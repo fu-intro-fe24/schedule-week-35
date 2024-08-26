@@ -16,12 +16,20 @@ Under onsdagen kommer vi att dyka in i rollen frontendutvecklare och titta närm
 ## Resurser
 
 ### Presentationer
+* [Introduktion](https://docs.google.com/presentation/d/1rfIF3X_NzCoSEksLj9-ZruXLLaUtckj8/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Filmer
 
 ### Länkar
+* [Github](https://github.com/)
+* [VS Code - nedladdning](https://code.visualstudio.com/download)
+* [Figma](https://www.figma.com/)
+* [Discord - nedladdning](https://discord.com/download)
+* [The Great Divide](https://css-tricks.com/the-great-divide/)
+* [Forget the hype](https://medium.com/mop-developers/forget-the-hype-ai-isnt-taking-your-coding-job-9047f2d16171)
 
 ### Övningar
+* [Studiemiljöer](https://github.com/fu-intro-fe24/exercise-study-environment-setup)
 
 
 
